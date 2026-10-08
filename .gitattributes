@@ -1,0 +1,7 @@
+Cargo.lock linguist-generated
+public/*.html linguist-vendored
+* text=auto eol=lf
+
+src/*.ts linguist-detectable 
+*.min.js linguist-generated
+# eof 0acd50d8
